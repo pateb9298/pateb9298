@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pateb9298
+- 👋 Hi, I’m Bhakti Patel. @pateb9298
 - 👀 I’m interested in projects involving frontend/backend development, AI integration, as welll as building web applications, and experimenting with new technologies to solve real-world problems. 
 - 🌱 I’m currently learning advanced backend development, full-stack engineering, and AI integration in web apps.  
 - 💞️ I’m looking to collaborate on open-source projects and web applications.
